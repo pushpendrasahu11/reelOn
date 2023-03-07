@@ -3,6 +3,8 @@ import { AuthContext } from '../context/AuthContext'
 import Upload from './Upload'
 import '../css/home.css'
 import { database } from '../firebase'
+import Post from './Post'
+import Navbar from './Navbar'
 
 function Home() {
 
@@ -45,7 +47,8 @@ function Home() {
       <button onClick={handleLogout}> log out </button>
 
       </div> */}
-  
+      <Upload user={userData}/>
+      <Post userData = {userData}/>
     </div>
     </>
   )
