@@ -1,0 +1,52 @@
+{
+    "user": {
+        "uid": "nQ0T4639SAemNXdOb0owtDVSzM22",
+        "email": "pushpendrasahu1122@gmail.com",
+        "emailVerified": true,
+        "displayName": "Pushpendra Sahu",
+        "isAnonymous": false,
+        "photoURL": "https://lh3.googleusercontent.com/a/AEdFTp7HKRbJqEm6zH4SlHJl7YU3s349MHhGS761KcXp6g=s96-c",
+        "providerData": [
+            {
+                "providerId": "google.com",
+                "uid": "105498289897170181603",
+                "displayName": "Pushpendra Sahu",
+                "email": "pushpendrasahu1122@gmail.com",
+                "phoneNumber": null,
+                "photoURL": "https://lh3.googleusercontent.com/a/AEdFTp7HKRbJqEm6zH4SlHJl7YU3s349MHhGS761KcXp6g=s96-c"
+            }
+        ],
+        "stsTokenManager": {
+            "refreshToken": "APJWN8dC_7XSe1hG_6ZxoCKnlBWD6cUqxvIPbdRAkpEqplpIziAn_i4JwEsExiAZlD3Ohj2cu5cPvOZeywwK4K0uYtzq7H4pslI56irkbKGko5bl42KTeWdeFeYytgz8TEmP4F7kQFoIXAvLz5eYQlTcTIqMra4YuOS1bebcDdgyvb5qGiNiEsQjflMvwNerObBT9pyW7388GBdL9IE7T127LRwrovTI5AC4S00FL3TTM5PX-RjlStjS3VChEhQ8ZUgPvfmcJBVNm1_ng10jmCxK5TgK7Rl3ja9u1LnTiGHe6X6WXCBAd-KEkcKjvCJErLExqdoWojQ_SkmfIsbDYzWxVY5Wj-L1fMmyEKVt8XWQ_rZuK0fYfHGyfb8Qv1OrJlHfulvm11NL1oU7H6lZxSfxYqTf1Rr7usQ9CKcwrpMt1AQsiKC6Xmw",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFlYjMxMjdiMjRjZTg2MDJjODEyNDUxZThmZTczZDU4MjkyMDg4N2MiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiUHVzaHBlbmRyYSBTYWh1IiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FFZEZUcDdIS1JiSnFFbTZ6SDRTbEhKbDdZVTNzMzQ5TUhoR1M3NjFLY1hwNmc9czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3Rqcy0zZDc3OSIsImF1ZCI6InJlYWN0anMtM2Q3NzkiLCJhdXRoX3RpbWUiOjE2NzY1NzUyNzQsInVzZXJfaWQiOiJuUTBUNDYzOVNBZW1OWGRPYjBvd3REVlN6TTIyIiwic3ViIjoiblEwVDQ2MzlTQWVtTlhkT2Iwb3d0RFZTek0yMiIsImlhdCI6MTY3NjU3NTI3NCwiZXhwIjoxNjc2NTc4ODc0LCJlbWFpbCI6InB1c2hwZW5kcmFzYWh1MTEyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjEwNTQ5ODI4OTg5NzE3MDE4MTYwMyJdLCJlbWFpbCI6WyJwdXNocGVuZHJhc2FodTExMjJAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ29vZ2xlLmNvbSJ9fQ.3cWVEvrhaPQbbvLgawxK9lccn86DoZ7YODB7aDY-HaGyd4ZSmlZXgnKuqZnu5o6hmhqIK-Pvol37Wo1UHKgaYFMymHrPdCx1lHghZGhrxSHBKvg8tOB3GO-wsX7Nkqi6nS7r-qod_u9HvcSH8yyagGV6XU0L5oLMMhUS84ZIN8kAgA1enaE4ZFJ9iWYzLQ1R83FgoZ0TlceTiufJab62c4s9McYpsjSUNWznPJrNVU3QmOXvgOJhUeN0-kdS-BiWWjzMAbGZv5uiF3xjxKNp_03Xjdzm2VAb3P3AzIfIP7dkWKocOhxNMHJeABClFLyySCRsjw7ejEU283zl06WAdQ",
+            "expirationTime": 1676578904014
+        },
+        "createdAt": "1676575053748",
+        "lastLoginAt": "1676575192697",
+        "apiKey": "AIzaSyDx4WKImRdjfhJ7z15fk04XKrL5aH3JNNs",
+        "appName": "[DEFAULT]"
+    },
+    "providerId": "google.com",
+    "_tokenResponse": {
+        "federatedId": "https://accounts.google.com/105498289897170181603",
+        "providerId": "google.com",
+        "email": "pushpendrasahu1122@gmail.com",
+        "emailVerified": true,
+        "firstName": "Pushpendra",
+        "fullName": "Pushpendra Sahu",
+        "lastName": "Sahu",
+        "photoUrl": "https://lh3.googleusercontent.com/a/AEdFTp7HKRbJqEm6zH4SlHJl7YU3s349MHhGS761KcXp6g=s96-c",
+        "localId": "nQ0T4639SAemNXdOb0owtDVSzM22",
+        "displayName": "Pushpendra Sahu",
+        "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFlYjMxMjdiMjRjZTg2MDJjODEyNDUxZThmZTczZDU4MjkyMDg4N2MiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiUHVzaHBlbmRyYSBTYWh1IiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FFZEZUcDdIS1JiSnFFbTZ6SDRTbEhKbDdZVTNzMzQ5TUhoR1M3NjFLY1hwNmc9czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3Rqcy0zZDc3OSIsImF1ZCI6InJlYWN0anMtM2Q3NzkiLCJhdXRoX3RpbWUiOjE2NzY1NzUyNzQsInVzZXJfaWQiOiJuUTBUNDYzOVNBZW1OWGRPYjBvd3REVlN6TTIyIiwic3ViIjoiblEwVDQ2MzlTQWVtTlhkT2Iwb3d0RFZTek0yMiIsImlhdCI6MTY3NjU3NTI3NCwiZXhwIjoxNjc2NTc4ODc0LCJlbWFpbCI6InB1c2hwZW5kcmFzYWh1MTEyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjEwNTQ5ODI4OTg5NzE3MDE4MTYwMyJdLCJlbWFpbCI6WyJwdXNocGVuZHJhc2FodTExMjJAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ29vZ2xlLmNvbSJ9fQ.3cWVEvrhaPQbbvLgawxK9lccn86DoZ7YODB7aDY-HaGyd4ZSmlZXgnKuqZnu5o6hmhqIK-Pvol37Wo1UHKgaYFMymHrPdCx1lHghZGhrxSHBKvg8tOB3GO-wsX7Nkqi6nS7r-qod_u9HvcSH8yyagGV6XU0L5oLMMhUS84ZIN8kAgA1enaE4ZFJ9iWYzLQ1R83FgoZ0TlceTiufJab62c4s9McYpsjSUNWznPJrNVU3QmOXvgOJhUeN0-kdS-BiWWjzMAbGZv5uiF3xjxKNp_03Xjdzm2VAb3P3AzIfIP7dkWKocOhxNMHJeABClFLyySCRsjw7ejEU283zl06WAdQ",
+        "context": "",
+        "oauthAccessToken": "ya29.a0AVvZVsokqQM_scej_0OMNjR7BGO7SnEBdEOciOseMTthKdkgl8gj2i8EtJPClB7nZWGNeN0VW9rxxcP0x6heycbPIy4BDKdhexhlBb-3UpRes5L-b3J9F-T6e2kH-f70kJL_FRDeD0XcoMsy_AJlEldyIYPugQaCgYKATwSARISFQGbdwaI2G2g6vzFZHSTcyIK5hPgpw0165",
+        "oauthExpireIn": 3598,
+        "refreshToken": "APJWN8dC_7XSe1hG_6ZxoCKnlBWD6cUqxvIPbdRAkpEqplpIziAn_i4JwEsExiAZlD3Ohj2cu5cPvOZeywwK4K0uYtzq7H4pslI56irkbKGko5bl42KTeWdeFeYytgz8TEmP4F7kQFoIXAvLz5eYQlTcTIqMra4YuOS1bebcDdgyvb5qGiNiEsQjflMvwNerObBT9pyW7388GBdL9IE7T127LRwrovTI5AC4S00FL3TTM5PX-RjlStjS3VChEhQ8ZUgPvfmcJBVNm1_ng10jmCxK5TgK7Rl3ja9u1LnTiGHe6X6WXCBAd-KEkcKjvCJErLExqdoWojQ_SkmfIsbDYzWxVY5Wj-L1fMmyEKVt8XWQ_rZuK0fYfHGyfb8Qv1OrJlHfulvm11NL1oU7H6lZxSfxYqTf1Rr7usQ9CKcwrpMt1AQsiKC6Xmw",
+        "expiresIn": "3600",
+        "oauthIdToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjU5NjJlN2EwNTljN2Y1YzBjMGQ1NmNiYWQ1MWZlNjRjZWVjYTY3YzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMTE1MjQ1NTE4ODU4LTNwbzNnbGlrN2k3YTBlZDRnaTNob2twYWs5OXBhMG04LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMTE1MjQ1NTE4ODU4LTNwbzNnbGlrN2k3YTBlZDRnaTNob2twYWs5OXBhMG04LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA1NDk4Mjg5ODk3MTcwMTgxNjAzIiwiZW1haWwiOiJwdXNocGVuZHJhc2FodTExMjJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiIwcE0yR2xYZnUwbU5IQ3V4bjVDQTdBIiwiaWF0IjoxNjc2NTc1Mjc0LCJleHAiOjE2NzY1Nzg4NzR9.FbEU0lg28RodDrEyeOC8fUMqIETHsUbe3vJ7le3t-llKam2SYy7nzEQDs8IT0M-8xpFvxVYRu__emPzuIJvOrSRj9j_zqIcOOkzaIlrzQSnUeq4FqHedu8Bkv2dwAShIhOndfzGu5ypRAMZxH5UorDILMEEir4EqhFjMFGBXPwCd0KchfuTZm7Q-1raWvA7Tm4TXkO-cy6z4kB6Nva7lfnCNRIzN2kHIJaM-LmTRiHhKH-YyD90FJMuMsBbMEgzQTpgt9KqGrM7f96CwPFKbhrmWGcOeOICfpGsuAB29si3uo5NS94ZIJqDKtWAxEiF4Z2pGArd3dC3d9yru6xLQpg",
+        "rawUserInfo": "{\"name\":\"Pushpendra Sahu\",\"granted_scopes\":\"https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/userinfo.profile\",\"id\":\"105498289897170181603\",\"verified_email\":true,\"given_name\":\"Pushpendra\",\"locale\":\"en\",\"family_name\":\"Sahu\",\"email\":\"pushpendrasahu1122@gmail.com\",\"picture\":\"https://lh3.googleusercontent.com/a/AEdFTp7HKRbJqEm6zH4SlHJl7YU3s349MHhGS761KcXp6g=s96-c\"}",
+        "kind": "identitytoolkit#VerifyAssertionResponse"
+    },
+    "operationType": "signIn"
+}

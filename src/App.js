@@ -6,7 +6,7 @@ import Signup from './components/Signup';
 import Login from './components/Login';
 import Extra from './components/Extra';
 import PrivateRoute from './components/PrivateRoute';
-
+import Profile from './components/Profile';
 
 import {BrowserRouter as Router,Routes, Route} from 'react-router-dom'
 import { AuthProvider } from './context/AuthContext';
@@ -21,7 +21,7 @@ function App() {
     <Route path="/signup"  element={<Signup />} />
     <Route path="/login"  element={<Login />} />
 
-   
+    <Route path="/profile/:id" element={<Profile/>}/>
     <Route path="/" element={<PrivateRoute><Home/></PrivateRoute>}/>
      
     

@@ -1,0 +1,42 @@
+.profile-section{
+    min-height: 88vh;
+    margin: 2% 10% ;
+}
+
+.profile-top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2%;
+}
+
+.profile-img{
+    border-radius: 50%;
+    margin: 0px 30px;
+}
+
+.profile-img img{
+    height: 120px;
+    width: 120px;
+}
+
+.profile-posts{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.profile-posts .videos{    
+    margin: 10px;
+}
+
+.profile-posts .video-container{
+    height: 50vh;
+    width: 100%;
+    margin: auto;
+}
+
+.profile-posts video{
+    height: 100%;
+    width: 100%;   
+}
